@@ -18,8 +18,8 @@ This is my first mini project created while learning JavaScript.
 - JavaScript
 
 🌱 What I Learned
--JavaScript DOM manipulation
--Event handling and game logic
--Building layouts with CSS
--Deploying web apps using Netlify
+JavaScript DOM manipulation
+Event handling and game logic
+Building layouts with CSS
+Deploying web apps using Netlify
 
