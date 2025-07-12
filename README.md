@@ -17,9 +17,10 @@ This is my first mini project created while learning JavaScript.
 - CSS
 - JavaScript
 
-🌱 What I Learned
-JavaScript DOM manipulation
-Event handling and game logic
-Building layouts with CSS
-Deploying web apps using Netlify
+## 🌱 What I Learned
+- How to manipulate the DOM using JavaScript
+- Creating interactive UIs with event handling
+- Writing game logic for win/draw conditions
+- Basic layout and styling with CSS
+- Deploying a static site using Netlify
 
